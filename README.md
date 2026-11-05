@@ -1,8 +1,8 @@
 # Anmol Siwa
 
-**IT Support • Python • Web Development • Practical Automation**
+**IT Support • Python Automation • Web Development**
 
-I build practical software projects, troubleshoot systems, and use code and AI-assisted development tools to turn ideas into working applications. My current focus is Python automation, web applications, Linux, and entry-level IT / technical support work.
+I build practical software projects, troubleshoot systems, and use Python and AI-assisted development tools to solve real problems. My portfolio focuses on hands-on IT support skills, small automation utilities, and web applications. I’m continuing to develop my Linux, scripting, and technical troubleshooting skills.
 
 ## Featured projects
 
@@ -15,10 +15,10 @@ A real-time Werewolf party-game web application for groups using phones on the s
 - Installable mobile web app (PWA).
 
 ### [Data Extractor](https://github.com/Brolomna/data_extractor)
-A small Python command-line utility that extracts selected fields from structured JSON-like data and writes readable output to a file.
+A Python command-line utility that reads nested JSON and extracts selected fields into a readable report.
 
-- Python, file handling, regular expressions, and command-line arguments.
-- A practical data-processing script built to solve a specific extraction task.
+- Python, JSON parsing, file handling, command-line arguments, and automated tests.
+- Handles nested records, incomplete data, malformed JSON, and output-file errors.
 
 ### [Chill Corner Bot](https://github.com/Brolomna/Chill-Corner-Bot)
 A Discord bot project with Python modules for server features. The repository is an older learning project and is shared as a code sample.
